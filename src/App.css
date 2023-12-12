@@ -1,0 +1,108 @@
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.loginmain {
+  margin-left: 30rem;
+  margin-top: 5rem;
+  background-color: aliceblue;
+  margin-right: 29rem;
+  height: 30rem;
+  border: 2px solid lightblue;
+  box-shadow: 0 0 5px lightblue;
+}
+
+.loginemail {
+  margin-left: 2.5rem;
+  width: 19rem;
+  border-radius: 3rem;
+}
+
+.loginpassword {
+  margin-left: 2.6rem;
+  border-radius: 3rem;
+  width: 19rem;
+}
+
+.loginhead {
+  margin-left: 14rem;
+  color: #2978a3;
+  margin-top: 1rem;
+  font-family: monospace;
+  font-size: 3rem;
+}
+.loginform {
+  margin-left: 7rem;
+  margin-top: 3rem;
+}
+
+.loginemail,
+.loginpassword {
+  padding: 0.2rem;
+  border: 2px solid rgb(200, 195, 195);
+  outline: none;
+}
+
+.loginemail:hover,
+.loginpassword:hover {
+  border: 2px solid lightblue;
+  box-shadow: 0 0 5px lightblue;
+}
+
+.loginbutton {
+  margin-left: 2.6rem;
+  margin-top: 1rem;
+  border-radius: 2rem;
+  width: 19rem;
+}
+
+.error-message {
+  color: red;
+  text-align: center;
+  margin-top: 2rem;
+  margin-right: 4rem;
+}
+
+.logoutbtn {
+  position: absolute;
+  margin-top: 6rem;
+}
+.forgotpassword {
+  margin-left: 1rem;
+  background-color: aliceblue;
+  border: none;
+  width: 5rem;
+  box-shadow: 0 0 10px lightblue;
+}
+
+.signuplink {
+  background-color: aliceblue !important;
+}
+
+.resetemail {
+  margin-left: 10rem;
+  height: 2rem;
+  border-radius: 1rem;
+  width: 16rem;
+}
+.resetemailbtn {
+  border-radius: 2rem;
+  height: 2rem;
+  font-size: 0.9rem;
+  margin-top: -0.3rem;
+}
+
+.marque {
+  color: #2978a3;
+}

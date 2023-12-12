@@ -1,0 +1,22 @@
+.page1{
+    margin-left: 38rem;
+}
+#but1{
+    display: inline-block;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    color: white;
+    background-color: blue;
+    border-radius: 10px;
+    cursor: pointer;
+    border: none;
+    margin-left: 4rem;
+}
+.img1{
+    height: 400px;
+    width:280px;
+    margin-top: 4rem;
+
+}
